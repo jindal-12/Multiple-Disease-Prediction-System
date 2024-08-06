@@ -11,18 +11,6 @@ The Multiple Disease Prediction System is a machine learning-based application d
 - User-friendly interface for easy data input.
 - Provides detailed results and recommendations.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Installation
 
 ### Prerequisites
@@ -68,8 +56,6 @@ The Multiple Disease Prediction System is a machine learning-based application d
 
 4. View the prediction results and recommendations.
 
-![Home Page Screenshot](screenshots/Screenshot.png)
-
 ## Technologies
 
 - **Frontend:**
@@ -109,9 +95,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
